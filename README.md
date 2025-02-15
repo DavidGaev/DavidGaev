@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm David Gaev! </h1>
 
-<!--
-**DavidGaev/DavidGaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>[Active Directory Home Lab](https://github.com/DavidGaev/ActiveDirectoryLab)</b>
+- <b>[Entra ID Home Lab](https://github.com/DavidGaev/Entra-ID-Lab)</b>
+- <b>[Ticketing Software Home Lab](https://github.com/DavidGaev/Ticketing-Lab)</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📝Certifications:</h2>
+
+- <b>CompTIA A+</b>
+- <b>CompTIA Network+</b>
+- <b>CompTIA Security+</b>
+- <b>LPI Linux Essentials</b>
+- <b>AWS Cloud Practitioner</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+-<b>[Linkedin](https://www.linkedin.com/in/david-gaev-0a8004241/)</b>
+
+
